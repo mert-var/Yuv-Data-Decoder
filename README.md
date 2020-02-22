@@ -11,4 +11,5 @@ YUV renk formatı, RGB renk uzayına alternatif olarak önerilmiş bir renk uzay
 
 RGB’den YUV’a dönüşüm işleminden sonra .yuv uzantılı dosyalarda N adet çerçeve bilgisi bulunmaktadır. Her bir çerçeve için sırasıyla Y,U ve V bileşenleri tutulmaktadır. Şekil-1’de, ışıklılık (luma) ve renk bileşenleri (chroma) için hangi örneklerin/piksellerin seçilip/seçilmediği bilgisi gösterilmektedir. 
 
+![image2](https://user-images.githubusercontent.com/21347887/75091567-cc004a00-557f-11ea-95b1-4d243ab967ba.png)
 
