@@ -25,11 +25,13 @@ RGB’den YUV’a dönüşüm işleminden sonra .yuv uzantılı dosyalarda N ade
 •	Görüntü oynatma/gösterme: Parse işlemi sonrası sadece Y bileşenleri, tasarlanacak arayüz üzerinde oynatılacaktır. Oynatma 
 işlemi, çerçeve bazlı yapılacaktır.
 
-####Projede kullanılabilecel örnek .yuv uzantılı dosyalar
+#### Projede kullanılabilecek örnek .yuv uzantılı dosyalar
 
-4:2:0  referans diziler : http://trace.eas.asu.edu/yuv/index.html
-4:2:2 referans dizi:  http://samples.mplayerhq.hu/raw-video/squirrel-720x576-422P.yuv
-4:4:4 referans dizi: http://samples.mplayerhq.hu/raw-video/squirrel-720x576-444P.yuv
+• 4:2:0 referans diziler: http://trace.eas.asu.edu/yuv/index.html
+
+• 4:2:2 referans diziler: http://samples.mplayerhq.hu/raw-video/squirrel-720x576-422P.yuv
+
+• 4:4:4 referans diziler: http://samples.mplayerhq.hu/raw-video/squirrel-720x576-444P.yuv
 
 
 
