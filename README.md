@@ -15,7 +15,7 @@ RGB’den YUV’a dönüşüm işleminden sonra .yuv uzantılı dosyalarda N ade
 
 ### Proje İsterleri
 
-    • **Arayüz tasarımı:** Tasarlanacak arayüz üzerinden dosya okuma, .bmp kaydetme, görüntü oynatma ve 
+    **• Arayüz tasarımı:** Tasarlanacak arayüz üzerinden dosya okuma, .bmp kaydetme, görüntü oynatma ve 
     ayarlar seçeneği olacaktır.
 
     • **Dosya okuma:** .yuv uzantılı dosyalar okunacak ve render/parse işlemine tabii tutulacaktır.
@@ -36,3 +36,5 @@ RGB’den YUV’a dönüşüm işleminden sonra .yuv uzantılı dosyalarda N ade
    • 4:2:2 referans diziler: http://samples.mplayerhq.hu/raw-video/squirrel-720x576-422P.yuv
 
    • 4:4:4 referans diziler: http://samples.mplayerhq.hu/raw-video/squirrel-720x576-444P.yuv
+   
+   
