@@ -13,3 +13,23 @@ RGB’den YUV’a dönüşüm işleminden sonra .yuv uzantılı dosyalarda N ade
 
 ![image2](https://user-images.githubusercontent.com/21347887/75091588-1386d600-5580-11ea-8a55-f8b486c2ab05.png)
 
+### Proje İsterleri
+
+•	Arayüz tasarımı: Tasarlanacak arayüz üzerinden dosya okuma, .bmp kaydetme, görüntü oynatma ve ayarlar seçeneği olacaktır.
+
+•	Dosya okuma: .yuv uzantılı dosyalar okunacak ve render/parse işlemine tabii tutulacaktır.
+
+•	Ayarlar:  Hangi formatta okuma işlemi yapılacağı ve görüntülerin en/boy bilgisinin ayarlandığı bölüm olacaktır.
+•	.bmp kaydetme: Parse işlemi sonrası tüm görüntü çerçevelerinin sadece Y bileşenleri numaralandırılarak kaydedilecektir.
+
+•	Görüntü oynatma/gösterme: Parse işlemi sonrası sadece Y bileşenleri, tasarlanacak arayüz üzerinde oynatılacaktır. Oynatma 
+işlemi, çerçeve bazlı yapılacaktır.
+
+####Projede kullanılabilecel örnek .yuv uzantılı dosyalar
+
+4:2:0  referans diziler : http://trace.eas.asu.edu/yuv/index.html
+4:2:2 referans dizi:  http://samples.mplayerhq.hu/raw-video/squirrel-720x576-422P.yuv
+4:4:4 referans dizi: http://samples.mplayerhq.hu/raw-video/squirrel-720x576-444P.yuv
+
+
+
