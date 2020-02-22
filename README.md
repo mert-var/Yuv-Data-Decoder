@@ -5,6 +5,7 @@ YUV renk formatı, RGB renk uzayına alternatif olarak önerilmiş bir renk uzay
 •	4:4:4 formatı: Renk kanallarında (Chroma kanallarında, Cr-Cb) herhangi bir alt örnekleme yapılmamıştır.
 
 •	4:2:2 formatı: Renk kanallarında, ½ oranında yatay alt-örnekleme yapıldığı, düşeyde ise herhangi bir alt-örnekleme yapılmadığı duruma karşılık gelmektedir. 
+
 •	4:2:0 formatı:  Renk kanallarında, ½ oranında yatay alt-örnekleme ve düşey alt-örnekleme yapıldığı durumdur.
 
 
